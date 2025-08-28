@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+print("Name : Alvin Dellon")
+print("Favorite Programming Language : Python")
