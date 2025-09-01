@@ -1,0 +1,18 @@
+Area of rectangle part 1:
+BEGIN
+1. measure length and width
+2. set length = 5, and set width = 3
+3. calculate area based on given formula (area = length * width)
+4. display the result of formula
+END
+
+Area of rectangle part 2:
+BEGIN
+1. measure length and width
+2. ask an input from user for the number of length and width
+3. read length
+4. read width
+5. length = 10, and width = 20 (example input from me)
+6. calculate length and width that given from input based on area of rectangle formula (area = length * width)
+7. display the result of formula
+END
